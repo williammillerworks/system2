@@ -7,7 +7,7 @@ TL;DR
 ```
 
 ```
-The Simple Personal Blog for GitHub Pages project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and an "About" page—ideal for solo writers or developers seeking a portfolio or content hub.
+The Simple Personal Blog for GitHub Pages project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and an "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
 ```
 
 ---
@@ -68,7 +68,7 @@ Persona: Blog Owner/Author (Sunho)
 
 * As a blog owner, I want to create individual article pages, so that each post can be easily read and shared.
 
-* As a blog owner, I want a simple "About" page, so that I can introduce myself and my blog’s purpose.
+* As a blog owner, I want a simple "Now" page, so that I can introduce myself and my blog’s purpose.
 
 * As a blog owner, I want clear navigation (header/footer), so readers can easily move between pages.
 
@@ -96,7 +96,7 @@ Functional Requirements
 
   * **Article Pages:** Dedicated page for each blog post, using consistent typography and layout.
 
-  * **About Page:** Static page with the author’s introduction, photo (optional), and brief mission statement.
+  * **Now Page:** Static page with the author’s introduction, photo (optional), and brief mission statement.
 
   * **Header/Footer Layout:** Simple navigation links (Home, About), blog title/branding, and copyright.
 
