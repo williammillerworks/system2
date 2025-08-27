@@ -195,15 +195,15 @@ Narrative
 ```
 
 ```
-Sunho, an aspiring creator and developer, wanted a beautiful personal blog to share his thoughts and projects with the world. Frustrated by the complexity and clutter of heavy CMS solutions, he searched for a minimal platform where content and design could shine without technical distractions. By designing and deploying his own Simple Personal Blog on GitHub Pages, Sunho achieved the perfect blend of low-maintenance technology and high-quality design.
+An aspiring creator and developer wanted a beautiful personal blog to share his thoughts and projects with the world. Frustrated by the complexity and clutter of heavy CMS solutions, he searched for a minimal platform where content and design could shine without technical distractions. By designing and deploying his own Simple Personal Blog on GitHub Pages, Sunho achieved the perfect blend of low-maintenance technology and high-quality design.
 ```
 
 ```
-Upon launching, Sunho’s workflow is seamless: whenever inspiration strikes, he can open his repository, add a markdown file with the next big idea, and with one push, his blog instantly updates for the world to see. The site loads quickly, looks sharp on all devices, and keeps readers focused on the writing. Over time, Sunho easily tweaks the colors and layout, proud that the platform grows with his needs—no plugins, no hidden costs, no worry about downtime or losing control of his content.
+Upon launching, the workflow is seamless: whenever inspiration strikes, he can open his repository, add a markdown file with the next big idea, and with one push, his blog instantly updates for the world to see. The site loads quickly, looks sharp on all devices, and keeps readers focused on the writing. Over time, Sunho easily tweaks the colors and layout, proud that the platform grows with his needs—no plugins, no hidden costs, no worry about downtime or losing control of his content.
 ```
 
 ```
-Thanks to this project, Sunho’s blog not only becomes a powerful portfolio and creative outlet but serves as an inviting, professional front door for new opportunities and connections online—showcasing both substance and style, effortlessly.
+Thanks to this project, this blog not only becomes a powerful portfolio and creative outlet but serves as an inviting, professional front door for new opportunities and connections online—showcasing both substance and style, effortlessly.
 ```
 
 ---
@@ -270,7 +270,7 @@ Technical Needs
 
 * HTML, CSS, and minimal vanilla JavaScript for interactive elements.
 
-* \[Optional\] Support for markdown-based posts converted on build.
+* Support for markdown-based posts converted on build.
 
 * Maintained folder structure for posts (e.g., `/posts/` or Jekyll `_posts`).
 
@@ -287,8 +287,6 @@ Data Storage & Privacy
 ```
 
 * All content (posts, pages, assets) stored in the public GitHub repository.
-
-* No personal user data or reader tracking by default; no forms or data collection.
 
 * Public site, no authentication layer; privacy dependent on GitHub and visitor settings.
 
@@ -378,15 +376,9 @@ Phase 3: (Optional, Future) Customization & Extensibility (time as available)
 
 * Key Deliverables:
 
-  * Easily switch themes or fonts
-
   * Enable simple analytics snippet integration
 
   * Support for category/tag-based post filtering
-
-* Dependencies:
-
-  * Stable, working MVP from Phases 1–2
 
 ---
 
