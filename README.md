@@ -1,6 +1,6 @@
 # Simple Personal Blog for GitHub Pages
 
-(bolt prototype)[https://import-williammiller-odl6.bolt.host/]
+[bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
 ## TL;DR
 The **Simple Personal Blog for GitHub Pages** project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and a "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
