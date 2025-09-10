@@ -2,6 +2,13 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+09.10.25
+Hedvig Letters Serif: Used for the header title "System two" (applied via font-serif class)
+Pretendard: Now the default sans-serif font for all body text, loaded from CDN
+Inter: Used exclusively for number-only text like dates and times, with tabular numbers (tnum) and contextual alternates (calt) features enabled
+
+-
+
 ## TL;DR
 The **Simple Personal Blog for GitHub Pages** project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and a "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
 
