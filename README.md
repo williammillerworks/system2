@@ -7,6 +7,9 @@ Hedvig Letters Serif: Used for the header title "System two" (applied via font-s
 Pretendard: Now the default sans-serif font for all body text, loaded from CDN
 Inter: Used exclusively for number-only text like dates and times, with tabular numbers (tnum) and contextual alternates (calt) features enabled
 
+09.12.25
+Add Now page with URL-based navigation
+
 -
 
 ## TL;DR
