@@ -15,6 +15,7 @@ Fix font sizing consistency, add structured content.json, and implement text tru
 
 09.14.25
 Add post detail page with content loading
+Enhanced markdown rendering with typography and page transitions
 
 ## TL;DR
 The **Simple Personal Blog for GitHub Pages** project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and a "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
