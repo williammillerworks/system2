@@ -22,6 +22,10 @@
 
 09.20.25: Add post header functionality
 
+09.23.25: Admin interface with authentication, Supabase integration for content management 
+
+09.24.25: Supabase Edge Function routing issue and the hidden admin shortcut feature.
+
 ## TL;DR
 The **Simple Personal Blog for GitHub Pages** project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and a "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
 
