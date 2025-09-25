@@ -26,6 +26,15 @@
 
 09.24.25: Supabase Edge Function routing issue and the hidden admin shortcut feature.
 
+09.25.25: fix: resolve Edge Function fetch errors and syntax issues
+
+- Skip Supabase API calls when environment variables not configured
+- Add proper fallback to local files for post content loading
+- Fix duplicate catch block syntax errors in useContentData hook
+- Hide debug information area from main interface
+- Improve error handling for missing posts during preload
+
+
 ## TL;DR
 The **Simple Personal Blog for GitHub Pages** project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and a "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
 
