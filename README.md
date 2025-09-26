@@ -34,6 +34,8 @@
 - Hide debug information area from main interface
 - Improve error handling for missing posts during preload
 
+09.26.25: Create, Edit, Delete function
+
 
 ## TL;DR
 The **Simple Personal Blog for GitHub Pages** project enables anyone to quickly launch a clean, easy-to-edit blog hosted for free via GitHub Pages. It solves the problem of setting up and maintaining a personal blog with minimal configuration, offering essential features like article lists, post pages, and a "Now" page—ideal for solo writers or developers seeking a portfolio or content hub.
