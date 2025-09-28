@@ -2,29 +2,9 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
-09.10.25: Hedvig Letters Serif, Pretendard, Inter font applied
+09.28.25: Fixed mobile browser safe area colors
 
-09.12.25: Add Now page with URL-based navigation
-
-09.13.25: Fix font sizing consistency, add structured content.json, and implement text truncation with ellipsis for main content on narrow screens
-
-09.14.25: Add post detail page with content loading / Enhanced markdown rendering with typography and page transitions
-
-09.15.25: Fixed post loading and cleaned up content folders
-
-09.16.25: Added new post with proper content structure and image integration
-
-09.17.25: Fixed instant post switching by preloading all content
-
-09.18.25: Add SEO, RSS feeds support & Implement keyboard and swipe navigation
-
-09.19.25: Add pagination functionality
-
-09.20.25: Add post header functionality
-
-09.23.25: Admin interface with authentication, Supabase integration for content management 
-
-09.24.25: Supabase Edge Function routing issue and the hidden admin shortcut feature.
+09.26.25: Create, Edit, Delete function
 
 09.25.25: fix: resolve Edge Function fetch errors and syntax issues
 
@@ -34,7 +14,30 @@
 - Hide debug information area from main interface
 - Improve error handling for missing posts during preload
 
-09.26.25: Create, Edit, Delete function
+09.24.25: Supabase Edge Function routing issue and the hidden admin shortcut feature.
+
+09.23.25: Admin interface with authentication, Supabase integration for content management 
+
+09.20.25: Add post header functionality
+
+09.19.25: Add pagination functionality
+
+09.18.25: Add SEO, RSS feeds support & Implement keyboard and swipe navigation
+
+09.17.25: Fixed instant post switching by preloading all content
+
+09.16.25: Added new post with proper content structure and image integration
+
+09.15.25: Fixed post loading and cleaned up content folders
+
+09.14.25: Add post detail page with content loading / Enhanced markdown rendering with typography and page transitions
+
+09.13.25: Fix font sizing consistency, add structured content.json, and implement text truncation with ellipsis for main content on narrow screens
+
+09.12.25: Add Now page with URL-based navigation
+
+09.10.25: Hedvig Letters Serif, Pretendard, Inter font applied
+
 
 
 ## TL;DR
