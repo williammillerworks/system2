@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+09.29.25: Rolled back mobile browser safe area colors to light background
+
 09.28.25: Fixed mobile browser safe area colors
 
 09.26.25: Create, Edit, Delete function
