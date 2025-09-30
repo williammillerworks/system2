@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+09.30.25: Partly fixed post delete(not working without star ratings)
+
 09.29.25: Rolled back mobile browser safe area colors to light background
 
 09.28.25: Fixed mobile browser safe area colors
