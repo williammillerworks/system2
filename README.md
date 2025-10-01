@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.01.25: implement keep-all word-break for better typography
+
 09.30.25: Partly fixed post delete(not working without star ratings)
 
 09.29.25: Rolled back mobile browser safe area colors to light background
