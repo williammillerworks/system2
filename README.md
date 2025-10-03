@@ -2,6 +2,12 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.03.25:
+- Added skeleton loading placeholders
+- Auto-save drafts functionality
+- Post preview system
+- Bulk actions for content management
+
 10.01.25: implement keep-all word-break for better typography
 
 09.30.25: Partly fixed post delete(not working without star ratings)
