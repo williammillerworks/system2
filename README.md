@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.09.25: re: fix post delete function
+
 10.06.25: fix post delete function
 
 10.03.25:
