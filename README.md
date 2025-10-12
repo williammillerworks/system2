@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.12.25: Fixed post deletion logout issue by removing page reload, and configured markdown links to open in new tabs.
+
 10.11.25: Fix admin interface: resolve delete/edit button functionality and sync local/storage content sources
 
 10.09.25: re: fix post delete function
