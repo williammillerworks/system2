@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.14.25: Added keyboard navigation (arrow keys/escape) for posts and mobile-friendly bottom sheet confirmation modal for delete actions.
+
 10.13.25: Added post count display in admin panel tabs showing total number of posts.
 
 10.12.25: Fixed post deletion logout issue by removing page reload, and configured markdown links to open in new tabs.
