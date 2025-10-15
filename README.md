@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.16.25: Typewriter component update: the cursor blinks like a terminal cursor.
+
 10.15.25: 
 - Fixed tab bar post count to exclude drafts
 - Resolved typewriter text save issue caused by race condition and missing edge function deployment.
