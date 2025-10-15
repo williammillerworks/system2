@@ -2,6 +2,10 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.15.25: 
+- Fixed tab bar post count to exclude drafts
+- Resolved typewriter text save issue caused by race condition and missing edge function deployment.
+
 10.14.25: Added keyboard navigation (arrow keys/escape) for posts and mobile-friendly bottom sheet confirmation modal for delete actions.
 
 10.13.25: Added post count display in admin panel tabs showing total number of posts.
