@@ -2,6 +2,8 @@
 
 [bolt prototype](https://import-williammiller-odl6.bolt.host/)
 
+10.17.25: Published blog link on Instagram.
+
 10.16.25: Typewriter component update: the cursor blinks like a terminal cursor.
 
 10.15.25: 
